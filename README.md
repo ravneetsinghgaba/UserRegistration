@@ -4,7 +4,7 @@ This is a User Registration and Login form created using Spring Boot, Spring Sec
 
 The user registration fields are validated with hibernate validator annotations.
 
-A Role-based Spring security is created with a MySQL database.
+This is a Role-based Spring security is created with a MySQL database.
 
 The two main functionalities of this application:
 
